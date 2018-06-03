@@ -1,2 +1,3 @@
 # moving_object
-# moving_object demo
+## 使用说明
+每个人创建自己的文件夹或者分支进行开发
